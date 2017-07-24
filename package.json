@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/diegohdez90/start-webpack#readme",
   "devDependencies": {
+    "html-webpack-plugin": "^2.29.0",
     "webpack": "^3.3.0"
   },
   "dependencies": {
