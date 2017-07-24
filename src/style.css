@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Cairo';
+  src :url('./Cairo-Regular.ttf');
+}
+
+.hello{
+  font-family: 'Cairo', sans-serif;
+  color:red;
+  background: url('./icon.png');
+}
